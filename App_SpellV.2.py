@@ -97,7 +97,7 @@ COMMON_MISTAKES = {
 
 # ใส่ลิงก์ Export CSV ของ Google Sheets ที่นี่ (ต้องเปิดสิทธิ์ Anyone with the link)
 # ตัวอย่าง: "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/export?format=csv"
-GOOGLE_SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/1KIR5OTpTEWfwQ2W6KziQUWUim1aA9__L/export?format=csv"
+GOOGLE_SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/1KIR5OTpTEWfwQ2W6KziQUWUim1aA9__L/export?format=csv&gid=673336886"
 
 # ไฟล์สำรองกรณีโหลดจากเน็ตไม่สำเร็จ
 JSON_DICTIONARY_PATH = Path(
