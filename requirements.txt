@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+pythainlp
+rapidfuzz
+Pillow
+openpyxl
+wordfreq
+python-docx
